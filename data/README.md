@@ -1,0 +1,3 @@
+# DATA
+
+This folder contains extra data (not code). For example, fixtures, pictures, graphs...
